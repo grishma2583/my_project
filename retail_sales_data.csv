@@ -1,0 +1,151 @@
+CustomerID,CustomerName,Gender,Age,ProductID,ProductName,Category,Price,Discount%,QuantitySold,TotalRevenue,StoreID,StoreLocation,DateOfSale,SalesPersonID,SalesPersonName,PaymentMethod,CustomerFeedbackScore,ReturnStatus,Profit
+1038,Cole Moore,Female,49,8572,attorney,Home,646.24,27.88,12,5592.82,29,Victorfort,2024-05-28,7018,Robert Kim,Debit Card,2,No,418.78
+9536,Casey Atkins,Other,49,4660,stand,Sports,87.71,42.4,9,454.69,4,Powellburgh,2024-08-12,8430,William Jones,Online,1,No,197.16
+2429,Anthony Wilson,Female,32,8816,local,Sports,878.14,0.06,11,9653.74,17,Christineberg,2024-05-23,8192,Stephen Gonzalez,Debit Card,4,Yes,191.34
+8139,James Smith,Other,41,4560,today,Clothing,535.43,43.36,6,1819.61,15,Carolhaven,2024-08-20,3366,Frederick Powell,Cash,2,Yes,216.24
+9818,Christina Melendez,Male,68,1556,media,Electronics,266.02,47.72,17,2364.28,49,South Jeremy,2024-06-27,5126,Diane Hayes,Credit Card,3,No,355.47
+6662,Jeremy Duarte,Other,58,7223,pretty,Books,76.96,28.42,19,1046.67,1,New Nicoleport,2024-05-22,9305,Kristen Lee,Credit Card,4,No,190.35
+6733,Lawrence Lozano,Other,34,2831,administration,Clothing,852.47,18.05,16,11177.59,17,New William,2024-07-24,9864,Sandra Figueroa,Debit Card,3,Yes,304.81
+1576,Mary Diaz,Female,70,4179,foot,Electronics,638.58,7.11,4,2372.71,6,Lunafurt,2024-06-30,3905,Gabriel Maddox,Online,1,No,129.39
+9492,Brent Garcia,Female,34,7381,many,Books,184.34,32.97,20,2471.26,6,Yorkfurt,2024-02-03,6290,Michelle Mitchell,Online,2,Yes,384.92
+6235,Tina Smith,Other,30,7889,know,Electronics,311.9,25.53,11,2554.99,27,East Henry,2024-07-17,3629,Brian Parsons,Cash,2,No,382.6
+8854,Lisa Garcia,Other,34,8039,subject,Home,704.3,16.21,20,11802.66,18,South Susanville,2024-04-21,6689,Jose Kim,Online,3,No,274.29
+7020,Jeremy May,Male,39,7874,great,Sports,445.51,16.03,11,4115.04,46,Lake Jasminefurt,2024-02-27,4476,Dylan Shaffer,Online,3,No,84.26
+9027,Jonathon Irwin,Male,51,8034,the,Clothing,39.11,6.96,18,654.98,19,Vegafurt,2024-04-23,8586,Jennifer Jones,Credit Card,1,No,384.09
+5701,Sean Mendez,Male,51,1669,more,Beauty,75.33,7.07,2,140.01,38,Port Robertland,2024-08-15,8145,Jennifer Romero DDS,Credit Card,5,Yes,120.36
+3428,Robert Cardenas,Other,32,9145,sometimes,Clothing,374.03,34.38,16,3927.02,50,West Abigailton,2024-02-14,9180,Francisco Richards,Credit Card,4,No,285.01
+3537,Jesse Short,Female,40,4866,drop,Electronics,608.62,41.39,17,6064.11,32,East Patricia,2024-05-11,9220,Charles Cameron,Cash,1,Yes,97.57
+4354,James Williams,Male,55,1496,court,Clothing,954.26,11.09,10,8484.33,29,Austinshire,2024-05-19,1778,Melissa Smith,Online,2,Yes,269.28
+7309,John Moore,Other,69,2262,quite,Beauty,777.67,29.09,9,4963.01,29,Herringfort,2024-04-17,7329,Heather Mills,Cash,2,Yes,402.4
+6792,Miguel Thornton,Other,47,4337,enjoy,Books,18.49,33.83,18,220.23,42,Port Danielville,2024-04-17,6567,Donna Leonard,Online,4,Yes,35.06
+6158,Alyssa Marquez,Male,52,7251,defense,Electronics,176.82,22.26,19,2611.74,14,Port Alisonville,2024-05-19,5824,Mary Brown,Cash,1,No,74.37
+8673,Jennifer Miller MD,Other,70,2336,seek,Electronics,630.28,6.53,5,2945.61,41,Ramirezview,2024-09-15,7316,Mr. Robert Stewart,Online,2,No,450.79
+8642,Jill Morris,Female,58,2717,break,Sports,482.54,8.08,9,3991.96,19,West Alan,2024-06-26,7963,Tonya Brown,Cash,1,Yes,435.71
+2220,Elizabeth Sanchez,Female,45,5064,interview,Clothing,200.9,2.2,11,2161.28,35,Scottton,2024-01-16,3261,Karen Snow,Online,3,No,375.37
+7957,Wayne Grant,Male,25,9562,paper,Sports,119.02,8.31,18,1964.33,5,North Gary,2024-04-20,7633,Richard Dunn,Credit Card,2,No,50.76
+8623,Christy Nguyen,Male,58,4775,nothing,Sports,895.95,45.05,5,2461.62,31,South Heidifurt,2024-02-13,6714,Samantha Conner,Debit Card,2,Yes,433.15
+3881,Christine Daugherty,Female,54,9553,across,Clothing,699.07,0.87,15,10394.82,39,New Daniel,2024-07-31,3754,James Mitchell,Credit Card,4,Yes,28.91
+7270,Brianna Fox,Male,19,8231,own,Beauty,610.21,48.98,5,1556.65,29,Higginsstad,2024-01-01,3932,Rebecca Jackson,Credit Card,2,Yes,54.16
+7101,Holly Morrison,Male,51,1666,thus,Beauty,815.43,14.7,19,13215.67,19,Ericksonborough,2024-05-02,7574,Tyler Webb,Cash,3,Yes,460.61
+1479,Christine Gutierrez,Female,35,6368,event,Clothing,999.78,34.32,1,656.66,41,East David,2024-07-11,4452,Holly Ibarra,Debit Card,2,No,133.07
+8452,Cory Swanson,Female,60,2611,move,Books,939.84,1.98,7,6448.62,20,East Sara,2024-07-10,5807,Jill Wu,Online,4,Yes,442.56
+9879,Gerald Perry,Female,45,7499,a,Clothing,973.85,47.21,6,3084.57,9,Port Daniel,2024-04-28,7463,Kevin Santiago,Debit Card,2,No,279.47
+2426,Jonathan Boone,Male,67,2999,treatment,Electronics,139.47,31.03,15,1442.89,46,Leroymouth,2024-03-05,2219,Alexander Contreras,Online,3,No,247.06
+3732,Kevin Ewing,Male,31,6938,door,Books,994.96,18.14,18,14660.54,44,Michaelton,2024-07-28,8756,Brandon Goodwin,Debit Card,5,Yes,464.32
+7898,Adam Good,Other,33,3705,point,Electronics,767.82,6.25,4,2879.33,6,Stevenfort,2024-08-13,4427,John Brown,Cash,5,Yes,143.9
+3275,Heather Cook,Male,28,2653,quickly,Home,237.49,30.93,12,1968.41,48,Erinberg,2024-01-27,2479,Rachael Williams,Cash,3,No,284.43
+7198,Phillip Soto,Other,42,2237,customer,Home,629.81,6.78,17,9980.85,10,Kennethshire,2024-03-04,9701,Suzanne Martin,Online,3,No,277.41
+5289,Kendra Rodriguez,Other,19,7118,everything,Home,679.85,37.1,14,5986.76,33,East Leonardville,2024-03-04,2138,Laura Carter,Credit Card,1,Yes,237.96
+6908,Eric Hudson,Other,23,7464,agreement,Clothing,178.05,47.51,13,1214.96,1,Tuckerside,2024-07-09,9054,Jamie Nguyen,Online,5,No,485.18
+9371,Jessica Perez MD,Female,20,9871,hot,Clothing,514.83,47.74,11,2959.55,38,North Lauren,2024-03-02,5604,Brenda Long,Cash,3,Yes,284.39
+9599,Emily Valdez,Other,53,4528,customer,Beauty,969.27,6.46,1,906.66,22,Nicholstown,2024-02-05,4701,Molly Tran,Online,5,Yes,483.78
+5392,John Johnson,Male,70,8068,general,Electronics,141.66,33.5,12,1130.45,44,Bellland,2024-05-27,9393,Monique Sims,Online,2,Yes,370.06
+4788,Eric Mullins,Other,18,6177,popular,Clothing,582.05,21.17,9,4129.47,3,Port Martinport,2024-02-07,3439,Jonathan Haas,Debit Card,4,Yes,484.88
+1642,Daniel Flores,Female,39,9466,view,Home,296.43,31.77,8,1618.03,24,Edwardsport,2024-05-21,7227,Briana Long,Debit Card,1,No,489.74
+8604,Brittany Pacheco,Other,56,5380,under,Sports,895.04,28.99,1,635.57,13,West Lori,2024-02-05,7012,Mrs. Jennifer Blake DDS,Credit Card,1,Yes,434.62
+7395,Rebecca Cox,Male,40,5649,together,Sports,878.35,30.2,8,4904.71,45,North Nicolestad,2024-02-26,5643,Harold White,Credit Card,5,Yes,55.15
+1205,Kelly Reynolds,Other,45,6061,audience,Clothing,687.38,30.72,3,1428.65,15,Lake Richardstad,2024-04-18,4646,Gary Lee,Credit Card,4,Yes,417.13
+1583,Jeremy Smith,Male,58,6610,bill,Clothing,462.1,34.43,8,2423.99,45,Michaelfurt,2024-05-10,5180,Regina Austin,Cash,4,Yes,159.31
+3461,Mr. Charles Young,Other,29,2023,hit,Home,610.57,26.31,20,8998.58,17,North Patricia,2024-01-08,3737,Matthew Williams,Debit Card,1,Yes,222.33
+6587,Jessica Mathis,Male,47,8427,direction,Electronics,599.77,24.26,14,6359.72,14,West Kathleen,2024-03-29,1600,Jonathon Green,Credit Card,4,No,318.93
+9825,Curtis Shaw,Female,21,4853,forward,Electronics,595.22,30.78,5,2060.06,47,North Angelamouth,2024-08-12,8324,Sylvia Payne,Debit Card,1,Yes,392.47
+2885,Brian Gonzales,Female,19,7282,better,Books,232.17,29.59,9,1471.24,5,East Robert,2024-04-23,4349,Kathy Torres,Cash,1,Yes,56.33
+2868,Tara Burnett,Male,58,3240,ready,Books,776.74,46.38,10,4164.88,24,Bryantton,2024-09-20,5727,Thomas Gibson,Credit Card,2,Yes,94.32
+2276,Corey Glenn,Female,39,9615,lead,Beauty,470.46,30.62,15,4896.08,45,East James,2024-04-05,5400,Christopher Lara,Online,2,No,94.22
+6162,Bruce Greene,Male,25,3303,coach,Sports,762.38,19.34,19,11683.78,14,Kiddbury,2024-03-12,6857,Tom Black,Cash,5,Yes,41.87
+1822,Patricia Grimes,Female,68,3450,kind,Books,98.33,17.01,10,816.04,40,Joyshire,2024-06-28,2446,Mark Anderson,Credit Card,4,Yes,222.18
+8876,Ashley Allen,Other,43,2169,able,Books,696.18,22.42,13,7021.25,24,Mcneilport,2024-03-07,9214,Tina Diaz,Online,5,Yes,241.63
+9565,Jason Johnson,Male,48,4470,approach,Sports,98.98,9.47,16,1433.71,48,Craigmouth,2024-07-12,9584,Michelle Gilbert,Cash,4,No,496.11
+5715,Christopher Bird,Female,45,2407,let,Home,536.8,31.91,4,1462.03,27,Lake Rodneystad,2024-03-17,8561,Michael Simmons,Credit Card,5,No,435.79
+8866,Allison Foster,Female,55,2451,pass,Beauty,401.5,33.89,20,5308.63,6,New Maryside,2024-06-22,9403,Sara Hall,Online,5,No,207.87
+3034,Troy Cummings,Female,69,6747,either,Books,296.48,35.3,9,1726.4,11,New Brendaport,2024-02-16,2145,John Terry,Cash,1,Yes,8.44
+4418,Angela Hammond,Other,31,3272,miss,Beauty,329.57,39.84,5,991.35,38,Lake Margaretshire,2024-02-29,8656,Benjamin Bell,Online,5,Yes,266.51
+5092,Christopher Hill,Male,30,7506,out,Clothing,574.96,17.32,1,475.38,32,New Susanburgh,2024-04-30,6741,Lindsay House,Credit Card,5,Yes,19.66
+1165,Stephen Pearson,Female,21,6589,mean,Home,985.45,45.98,17,9049.78,15,Port Michaelport,2024-06-13,1263,Chelsea Gardner,Credit Card,2,Yes,389.41
+9717,Mr. Aaron Ramirez,Male,37,9020,term,Beauty,601.7,5.54,16,9093.85,36,South Charles,2024-06-11,2044,Priscilla Barber,Online,3,Yes,241
+7937,Kenneth Morrison,Female,64,7922,return,Sports,682.69,45.45,7,2606.85,27,Robertfort,2024-06-25,7923,Joseph Jones,Cash,1,Yes,33.95
+4101,Natalie Finley,Other,61,6465,own,Electronics,590.34,27.25,10,4294.72,30,Davidhaven,2024-09-23,6809,Amy Hernandez,Credit Card,3,Yes,239.45
+3202,Molly Daniels,Male,29,6746,data,Sports,476.75,39.29,4,1157.74,43,East Brendaburgh,2024-07-08,3535,Thomas Lewis,Debit Card,5,Yes,352.7
+2963,Steven Chavez,Female,51,5278,ask,Sports,995.42,39.58,19,11427.22,39,Lake Robert,2024-07-27,9705,Steven Henderson,Cash,2,Yes,410.99
+4808,Edward Jackson,Female,67,6750,lead,Beauty,242.73,28.46,17,2952.03,44,South Debra,2024-05-19,3395,Jonathan Gregory,Credit Card,5,Yes,465.66
+5992,Kathryn Myers,Other,48,9246,program,Electronics,621.63,1.87,17,10370.09,50,Cannonmouth,2024-05-21,9509,Kevin Craig,Cash,2,No,258.4
+7660,Carol Riley,Male,36,8246,before,Beauty,314.38,22.9,7,1696.71,43,Port Crystalshire,2024-01-25,7196,Steven Hansen,Online,1,No,179.21
+4813,Renee Davis,Female,24,5540,indeed,Beauty,167.68,33.94,10,1107.69,2,West Phillip,2024-09-05,8279,Nicholas Stewart,Debit Card,5,Yes,216.51
+1082,Dana Miller,Other,39,7686,cold,Clothing,321.63,39.39,4,779.76,17,Mccannville,2024-05-10,6690,Marilyn Marquez,Cash,3,No,307.97
+7987,Jared Farley,Other,37,3037,director,Electronics,211.45,22.29,7,1150.22,49,East Thomaschester,2024-02-15,5435,Yolanda Lynn,Online,3,Yes,447.3
+1226,Wendy Gonzalez,Male,36,3040,compare,Home,64.42,9.47,15,874.79,24,Burtonmouth,2024-09-21,1348,Ebony Santos,Online,5,No,170.31
+8025,Valerie Chapman,Male,58,2170,those,Home,771.39,33.53,16,8203.89,16,North Marie,2024-08-05,9079,Vanessa Torres,Debit Card,1,Yes,451.97
+5552,Ryan Smith,Other,45,1430,executive,Books,593.39,32.31,6,2409.99,8,Smithburgh,2024-06-10,7730,Erica Thompson,Cash,3,No,240.54
+6686,Natalie Davies,Other,56,1335,worker,Clothing,962.99,27.42,18,12580.89,22,Rossstad,2024-01-28,7517,Sarah Martinez,Debit Card,3,No,292.43
+3535,Logan Nelson,Male,18,1917,fact,Sports,508.04,42.49,5,1460.87,47,North Stephenton,2024-07-31,4382,Charles Turner,Cash,1,Yes,229.8
+5854,Marvin Barnes,Female,68,9005,outside,Sports,849.64,16.83,6,4239.87,26,Amyside,2024-09-14,7221,Nicholas Green,Debit Card,3,No,78.38
+4321,Alfred Roberts,Male,43,9690,get,Clothing,906.36,42.14,18,9439.56,20,Smithview,2024-01-14,3458,Krista Smith,Credit Card,1,Yes,228.22
+3988,Alicia Williams,Female,35,2957,others,Clothing,469.06,46.27,15,3780.39,24,New Dorothy,2024-05-20,3701,Brenda Shaffer,Debit Card,4,Yes,118.96
+9048,Nicholas Jones,Other,39,8683,remain,Books,390.76,8.21,11,3945.46,24,Johnsonton,2024-08-07,6686,Angela Dudley,Online,2,No,82.1
+7791,Taylor Maldonado,Other,53,3598,force,Home,430.94,21.18,9,3057,10,Stevenberg,2024-04-22,8362,Alexis Mendez,Cash,4,Yes,52.2
+5412,Pamela Carter,Male,45,8589,help,Electronics,740.42,19.95,3,1778.12,44,Port Kelseytown,2024-05-10,6254,Kevin Hamilton,Credit Card,1,Yes,46.81
+2418,Jennifer Shaw,Other,63,9509,which,Sports,265.82,27.41,19,3666.22,50,Theodoreberg,2024-01-17,1445,John Marsh,Debit Card,1,Yes,343.81
+3122,Michelle Stanley,Female,33,3365,me,Sports,503.48,18.86,2,817.05,11,Jessicaborough,2024-07-21,1800,Jennifer Lewis,Online,3,No,32.21
+1280,Jennifer Hester,Male,54,5709,billion,Sports,567.5,12.6,7,3471.97,14,Rodriguezside,2024-03-21,8123,Michelle Patterson,Debit Card,2,Yes,24.65
+5710,Denise Reyes,Male,67,3236,back,Beauty,49.36,39.45,13,388.54,28,Port Christopherberg,2024-07-11,8337,Brandon Christensen,Cash,3,Yes,213.89
+9123,Laura Hodges,Male,58,2183,party,Sports,73.08,33.67,9,436.27,17,West Tammy,2024-02-27,9485,Amber Mcclain,Credit Card,2,No,411.35
+1188,Michael Fisher,Male,70,8033,test,Clothing,662.93,22.2,10,5157.6,1,Jefferyview,2024-04-07,6878,Michael Avila,Cash,1,Yes,103.27
+7233,Daniel Thompson,Male,18,3991,alone,Clothing,792.17,15.69,15,10018.18,6,Lake Alanburgh,2024-08-04,9565,Michael Pearson,Credit Card,5,Yes,193.76
+1796,Nichole Young,Other,56,5521,pull,Sports,442.51,39.04,8,2158.03,46,West Kaitlynchester,2024-07-15,8732,Melanie Hahn,Credit Card,4,No,244.77
+3810,Nicole Shah,Other,54,2972,happen,Sports,154.3,26.97,8,901.48,50,Lake Seth,2024-07-06,8533,Luis Warner,Cash,1,Yes,479.77
+1840,Patricia Bailey,Male,27,4509,account,Clothing,690.35,39.86,19,7888.35,25,Ortiztown,2024-09-21,1379,Pamela Davis,Cash,4,Yes,355.25
+7273,Amanda Williams,Female,23,8958,own,Home,415.9,39.38,15,3781.78,32,Johnborough,2024-07-15,4446,Joanna Butler,Online,4,No,277.13
+3767,Nicole Smith,Male,37,1327,remember,Electronics,846.82,23.17,19,12361.62,43,New Carolbury,2024-03-08,9311,Meredith Novak,Debit Card,2,No,228.56
+4358,Susan Collier,Female,68,3467,property,Home,891.99,1.92,10,8748.64,11,East Katrinachester,2024-06-25,2570,Kathleen Randolph,Cash,5,Yes,374.05
+6334,Alex Fox,Male,39,6134,campaign,Clothing,504.93,26.74,19,7028.32,17,West Triciaville,2024-07-05,8871,Robert Thomas,Online,4,Yes,449.49
+8476,Anthony Short,Other,27,2332,risk,Books,448.33,46.97,12,2852.99,19,Garciaview,2024-01-30,3974,David Parsons,Debit Card,1,Yes,407.84
+9468,Valerie Castillo,Other,40,8000,fine,Electronics,906.84,36.02,8,4641.57,8,Perezport,2024-05-14,3346,Lynn Campbell,Debit Card,2,No,490.98
+7086,Brianna Christian,Female,35,8257,agency,Clothing,74.87,11.58,15,993,48,Lake Jimmy,2024-06-15,6706,Mia Patterson,Debit Card,3,No,154.37
+8975,Deborah Koch,Male,34,1094,oil,Sports,145.47,6.79,17,2305.07,50,Millermouth,2024-01-19,1066,Colleen Howell,Debit Card,3,Yes,331.82
+9718,Charles White,Male,60,8568,three,Beauty,990.86,21.54,6,4664.57,29,East Elizabethfort,2024-05-05,8262,Juan Wells,Credit Card,4,Yes,108.04
+2533,Norma Rose,Male,44,3207,get,Sports,844.94,24.38,12,7667.32,29,Juanstad,2024-01-01,1783,Joel Harris,Debit Card,3,Yes,370.05
+7783,Lori Hubbard,Male,28,9414,help,Home,657.54,20.51,13,6794.82,7,Williamberg,2024-01-16,3612,Anne Harris,Cash,5,No,452.51
+5708,Adrienne Houston,Other,19,8382,until,Electronics,989.09,17.78,19,15451.37,25,Port Faithtown,2024-02-13,5791,Madison Patel,Cash,5,Yes,165.14
+8916,Susan Martin,Female,62,7301,that,Clothing,62.82,3.82,13,785.46,19,Morenoland,2024-09-20,9700,Henry Murphy,Debit Card,3,No,149.48
+5101,Emily Duncan,Male,18,2990,bad,Electronics,538.23,31.69,17,6250.3,27,Smithmouth,2024-07-31,5823,Katherine Wilson,Debit Card,4,No,39.26
+3542,Aaron Jones,Female,70,5487,behavior,Sports,988.85,12.61,2,1728.31,2,South Johnshire,2024-03-27,6465,Adrian Greer,Credit Card,3,Yes,166.96
+4219,Tim Mccormick,Male,47,2709,upon,Books,486.88,39.5,3,883.69,33,Kingberg,2024-03-24,2814,Scott Lynch,Online,5,No,34.98
+9148,Terry Donaldson,Other,63,7656,pass,Books,343.66,36.48,14,3056.1,20,Nicolechester,2024-03-16,7602,Nicholas Lopez,Credit Card,3,Yes,5.03
+2801,Lisa Dennis,Other,37,1790,leg,Home,502.01,4.28,1,480.52,43,Hannahland,2024-07-25,8860,Curtis Taylor,Debit Card,3,Yes,298.13
+2239,Leslie Snow,Other,26,9258,once,Clothing,307.2,29.58,15,3244.95,24,Robertville,2024-04-29,2684,Daniel Wilkins,Credit Card,4,Yes,491.64
+2870,Felicia Fox,Other,49,4053,agency,Home,444.69,49.05,7,1585.99,20,Lake Justinport,2024-01-24,2771,Kylie Curry,Debit Card,4,Yes,452.55
+2145,Christopher Myers,Other,49,7926,ahead,Electronics,123.39,34.05,8,651.01,47,Michaelport,2024-05-11,5477,Brandon Ramirez,Cash,4,No,456.67
+3250,James Santana,Male,55,3768,common,Beauty,906.55,12.64,18,14255.32,38,Lake Carolview,2024-09-20,7139,Cathy Golden,Online,2,Yes,41.85
+7593,Jose Oliver,Female,41,5949,suddenly,Sports,654.78,21.87,9,4604.22,22,South Amy,2024-09-15,9645,Ryan Jensen,Credit Card,4,Yes,194.08
+2397,Matthew Dunn,Other,68,6919,late,Sports,414.71,19.24,10,3349.2,42,Markburgh,2024-03-03,5391,Edward Cook,Debit Card,4,Yes,22.84
+3114,Carla Thomas,Female,43,2053,better,Home,645.81,20.81,20,10228.34,17,Allisonmouth,2024-03-21,8612,Angela Diaz,Online,1,No,436.06
+9519,Makayla Wagner,Female,45,3376,chair,Home,495.3,40.76,3,880.25,19,Simonberg,2024-02-17,3714,Charles Brown,Debit Card,2,No,412.94
+9614,William Smith,Female,61,4292,similar,Sports,788.35,38.2,14,6820.8,43,Hallton,2024-02-13,2514,Evan Huber,Cash,3,Yes,458.53
+7981,Diane Perry,Male,36,3223,night,Clothing,562.11,12.35,20,9853.79,13,East Jennifer,2024-03-12,3203,Erik Carey MD,Online,4,No,233.03
+7473,Patricia Jones,Other,21,4416,might,Beauty,687.89,16.87,8,4574.74,22,Cochranview,2024-02-02,6815,Michael Evans,Debit Card,5,Yes,485.5
+8049,Julia Carroll,Other,57,5596,add,Beauty,508,48.19,8,2105.56,21,Arellanomouth,2024-07-20,8321,John Johnson,Debit Card,3,Yes,490.57
+1448,Vickie Durham,Other,57,3471,relationship,Electronics,682.16,20.32,8,4348.36,5,Port Kimberlyton,2024-09-16,6279,Julia Johnson,Debit Card,5,Yes,347.65
+1502,Richard Martinez,Male,34,5330,ask,Home,951.99,3.21,5,4607.16,31,Cherylport,2024-05-24,6593,Gene Martin,Online,5,No,309.19
+2254,Joseph Pierce,Male,65,2988,should,Beauty,227.92,25.09,9,1536.61,36,Port Gregoryside,2024-01-30,2677,Tiffany Mcgee,Credit Card,4,Yes,257.09
+2558,Phyllis Carson,Male,22,6854,real,Home,775.37,37.84,11,5301.67,7,West Jacquelineberg,2024-09-08,1642,Christine Williams,Online,1,Yes,319.25
+7714,Jerry Herman,Other,25,2223,evidence,Sports,511.88,10.07,3,1381,27,Fitzgeraldburgh,2024-01-24,8234,David Terry,Credit Card,5,No,205.32
+1874,Nancy Chambers,Male,55,7268,article,Sports,30.71,12.38,3,80.72,18,Owensland,2024-05-23,5174,Francisco Butler,Cash,5,No,263.55
+6793,Jennifer Hoffman,Male,57,2070,strong,Clothing,880.74,9.4,5,3989.75,11,Kellimouth,2024-03-26,4527,Bryce Perkins,Credit Card,1,Yes,214.38
+2136,Kayla Clark,Female,27,3664,research,Beauty,365.15,12.41,1,319.83,28,South Jasonside,2024-08-26,6599,Anthony Floyd,Debit Card,2,Yes,34.87
+2331,Samantha Estes,Other,28,9695,reflect,Beauty,714.11,30.64,16,7924.91,28,Orozcomouth,2024-03-24,5184,David Nelson,Online,5,Yes,430.4
+7015,Anthony Dunn,Other,23,3448,business,Home,666.07,24.39,8,4028.92,6,Port Parker,2024-05-03,3080,Claudia Colon,Cash,1,No,394.88
+8303,Andrea Woodward,Other,56,4612,little,Beauty,286.7,2.21,20,5607.28,6,Sandovalhaven,2024-04-28,5207,Victoria Williams,Credit Card,3,Yes,269.16
+7320,Mary Swanson,Male,70,7772,right,Books,663.81,37.43,9,3738.11,6,Jacobburgh,2024-02-16,7506,Jacob Hodge,Online,4,No,234.23
+3085,Alyssa Lam,Female,19,4295,reach,Sports,405.3,12.42,2,709.92,25,South Richardport,2024-03-12,6991,Donald Richardson,Debit Card,2,Yes,441.43
+8042,Andrea Carter,Other,57,6920,blue,Electronics,759.85,16.15,5,3185.67,8,Stephaniebury,2024-05-03,1308,Dr. Henry Lynch,Credit Card,2,No,175.58
+9816,Angela Pennington,Other,52,7899,there,Beauty,62.47,19.58,18,904.29,24,Amandamouth,2024-05-21,1010,John Salas,Credit Card,2,No,322.85
+1979,Nicholas Phillips,Other,68,7379,usually,Books,217.37,32.96,14,2040.15,8,South Anna,2024-01-15,6023,Robert Rodriguez,Cash,1,No,163.15
+2325,Angel Pruitt,Female,34,8256,by,Books,385.75,35.88,14,3462.8,27,South Hollymouth,2024-02-13,3588,Victoria Davidson,Online,1,No,148.05
+2834,Perry Tanner,Other,66,6060,economic,Books,69.29,24.27,4,209.89,9,East Susanshire,2024-06-27,1296,John Flores,Debit Card,5,Yes,246.28
+3903,Timothy Chaney,Male,45,7510,language,Books,861,45.31,12,5650.57,37,Cynthiastad,2024-03-27,4005,Tamara Cameron,Credit Card,4,Yes,148.93
+5848,Laura Gilmore,Female,58,6275,practice,Clothing,10.06,28.59,14,100.57,3,Montgomeryshire,2024-04-08,7555,Colleen Brewer,Credit Card,2,Yes,47.11
+4317,Christopher Cruz,Other,65,9019,environment,Beauty,724.05,36.65,6,2752.11,4,Leeshire,2024-01-11,8843,Robert Young,Credit Card,4,Yes,60.82
+6053,Tara Mullins,Female,26,2730,statement,Clothing,312.51,42.4,6,1080.03,5,South Taraburgh,2024-02-08,2914,Daniel Morris,Credit Card,1,Yes,151.36
+8035,Mrs. Aimee Rosales,Female,63,5161,ball,Home,582.84,45.91,2,630.52,42,South Markmouth,2024-07-28,1468,Gail Callahan,Online,5,Yes,263.06
+5271,Robert Roberts,Male,60,4475,wait,Sports,540.21,42.02,9,2818.92,4,East Elizabeth,2024-02-01,4838,Lori Thomas,Online,4,Yes,360.37
+3673,Casey Dixon,Male,45,2538,pick,Clothing,861.26,34.82,6,3368.22,1,Nelsonton,2024-08-05,7428,Brian Coffey,Credit Card,2,Yes,102.95
